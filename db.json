@@ -1,48 +1,8 @@
 {
   "tasks": [
-    {
-      "name": "Ajudar no cachorro",
-      "createdDate": "14/12/2023, 13:40:49",
-      "completed": true,
-      "dueDate": "21-12-2023",
-      "id": 1
-    },
-    {
-      "name": "Listar afazeres",
-      "createdDate": "14/12/2023, 13:41:12",
-      "completed": true,
-      "dueDate": "28-12-2023",
-      "id": 2
-    }
+
   ],
   "log": [
-    {
-      "timestamp": "14-12-2023 13:40:49",
-      "taskName": "Ajudar no cachorro",
-      "action": "Adicionar Tarefa",
-      "taskId": 1,
-      "id": 1
-    },
-    {
-      "timestamp": "14-12-2023 13:40:52",
-      "taskName": "Ajudar no cachorro",
-      "action": "Tarefa Completa",
-      "taskId": 1,
-      "id": 2
-    },
-    {
-      "timestamp": "14-12-2023 13:41:13",
-      "taskName": "Listar afazeres",
-      "action": "Adicionar Tarefa",
-      "taskId": 2,
-      "id": 3
-    },
-    {
-      "timestamp": "14-12-2023 13:41:20",
-      "taskName": "Listar afazeres",
-      "action": "Tarefa Completa",
-      "taskId": 2,
-      "id": 4
-    }
+   
   ]
 }
