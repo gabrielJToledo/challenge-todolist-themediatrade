@@ -1,69 +1,28 @@
-# base
+## Informações Gerais
+Este é um projeto desenvolvido para o desafio da The Media Trade. O objetivo é criar uma todolist em VUE.
 
-## Project setup
+	
+## Tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-```
-# yarn
-yarn
+* Vue
+* Vuex
+* Vuetify
 
-# npm
-npm install
+## Como Executar a Aplicação
 
-# pnpm
-pnpm install
+## Frontend 
 
-# pnpm
-bun install
-```
+Após clonar o projeto, no terminal, instale as dependências usando o seguinte comando:
 
-### Compiles and hot-reloads for development
+- npm install
 
-```
-# yarn
-yarn dev
+Após a instalação das dependências, execute o seguinte comando para iniciar o json-server:
 
-# npm
-npm run dev
+- json-server --watch db.json --port 3001
 
-# pnpm
-pnpm dev
+Com o json-server iniciado, execute o seguinte comando para iniciar a aplicação VUE:
 
-# bun
-bun run dev
-```
+- npm run dev
 
-### Compiles and minifies for production
-
-```
-# yarn
-yarn build
-
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# bun
-bun run build
-```
-
-### Lints and fixes files
-
-```
-# yarn
-yarn lint
-
-# npm
-npm run lint
-
-# pnpm
-pnpm lint
-
-# bun
-bun run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://vitejs.dev/config/).
+Isso iniciará o servidor de desenvolvimento e você poderá acessar a aplicação no seu navegador pelo endereço http://localhost:3000/.
